@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basavarajaswamy.sanchaya.net/sitemap.xml
